@@ -1,35 +1,55 @@
 [
-  {
-    "County": "Nairobi",
-    "id": "0"
+	{
+		"County": "Nairobi",
+		"id": "0"
   },
-  {
-    "County": "Mombasa",
-    "id": "1"
+	{
+		"County": "Mombasa",
+		"id": "1"
   },
-  {
-    "County": "Mandera",
-    "id": "9"
+	{
+		"County": "Kwale",
+		"id": "2"
   },
-  {
-    "County": "Marsabit",
-    "id": "10"
+	{
+		"County": "Taita Taveta",
+		"id": "6"
   },
-  {
-    "County": "Kitui",
-    "id": "15"
+	{
+		"County": "Garissa",
+		"id": "7"
   },
-  {
-    "County": "Lodwar (Turkana)",
-    "id": "23"
+	{
+		"County": "Mandera",
+		"id": "9"
   },
-  {
-    "County": "Eldoret",
-    "id": "27"
+	{
+		"County": "Marsabit",
+		"id": "10"
   },
-  {
-    "County": "Kisumu",
-    "id": "42"
+	{
+		"County": "Kitui",
+		"id": "15"
+  },
+	{
+		"County": "Nyeri",
+		"id": "18"
+  },
+	{
+		"County": "Lodwar (Turkana)",
+		"id": "23"
+  },
+	{
+		"County": "Elgeyo/Marakwet",
+		"id": "26"
+  },
+	{
+		"County": "Eldoret",
+		"id": "27"
+  },
+	{
+		"County": "Kisumu",
+		"id": "42"
   }
-  
+
 ]

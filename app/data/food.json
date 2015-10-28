@@ -1,334 +1,334 @@
 [
-    {
-        "County": "Lamu",
-        "bednet": "51.3%",
-        "Malaria": "63.3%",
-        "HealthyPersona": "50",
-        "Geolocation": ""
+	{
+		"County": "Lamu",
+		"bednet": "51.3%",
+		"Malaria": "63.3%",
+		"HealthyPersona": "50",
+		"Geolocation": ""
     },
-    {
-        "County": "Elgeyo/Marakwet",
-        "bednet": "7.5%",
-        "Malaria": "9.4%",
-        "HealthyPersona": "48",
-        "Geolocation": ""
+	{
+		"County": "Elgeyo/Marakwet",
+		"bednet": "7.5%",
+		"Malaria": "9.4%",
+		"HealthyPersona": "48",
+		"Geolocation": ""
     },
-    {
-        "County": "Taita Taveta",
-        "bednet": "30.8%",
-        "Malaria": "48.8%",
-        "HealthyPersona": "48",
-        "Geolocation": ""
+	{
+		"County": "Taita Taveta",
+		"bednet": "30.8%",
+		"Malaria": "48.8%",
+		"HealthyPersona": "48",
+		"Geolocation": ""
     },
-    {
-        "County": "Marsabit",
-        "bednet": "11.1%",
-        "Malaria": "44%",
-        "HealthyPersona": "46",
-        "Geolocation": ""
+	{
+		"County": "Marsabit",
+		"bednet": "11.1%",
+		"Malaria": "44%",
+		"HealthyPersona": "46",
+		"Geolocation": ""
     },
-    {
-        "County": "Kitui",
-        "bednet": "13%",
-        "Malaria": "50.5%",
-        "HealthyPersona": "46",
-        "Geolocation": ""
+	{
+		"County": "Kitui",
+		"bednet": "13%",
+		"Malaria": "50.5%",
+		"HealthyPersona": "46",
+		"Geolocation": ""
     },
-    {
-        "County": "Isiolo",
-        "bednet": "42.6%",
-        "Malaria": "33.7%",
-        "HealthyPersona": "42",
-        "Geolocation": ""
+	{
+		"County": "Isiolo",
+		"bednet": "42.6%",
+		"Malaria": "33.7%",
+		"HealthyPersona": "42",
+		"Geolocation": ""
     },
-    {
-        "County": "Nyeri",
-        "bednet": "5.7%",
-        "Malaria": "13.4%",
-        "HealthyPersona": "39",
-        "Geolocation": ""
+	{
+		"County": "Nyeri",
+		"bednet": "5.7%",
+		"Malaria": "13.4%",
+		"HealthyPersona": "39",
+		"Geolocation": ""
     },
-    {
-        "County": "Garissa",
-        "bednet": "38.4%",
-        "Malaria": "46.6%",
-        "HealthyPersona": "37",
-        "Geolocation": ""
+	{
+		"County": "Garissa",
+		"bednet": "38.4%",
+		"Malaria": "46.6%",
+		"HealthyPersona": "37",
+		"Geolocation": ""
     },
-    {
-        "County": "Embu",
-        "bednet": "21.8%",
-        "Malaria": "39.8%",
-        "HealthyPersona": "34",
-        "Geolocation": ""
+	{
+		"County": "Embu",
+		"bednet": "21.8%",
+		"Malaria": "39.8%",
+		"HealthyPersona": "34",
+		"Geolocation": ""
     },
-    {
-        "County": "Samburu",
-        "bednet": "3.2%",
-        "Malaria": "37.1%",
-        "HealthyPersona": "34",
-        "Geolocation": ""
+	{
+		"County": "Samburu",
+		"bednet": "3.2%",
+		"Malaria": "37.1%",
+		"HealthyPersona": "34",
+		"Geolocation": ""
     },
-    {
-        "County": "Kwale",
-        "bednet": "32.1%",
-        "Malaria": "37.7%",
-        "HealthyPersona": "31",
-        "Geolocation": ""
+	{
+		"County": "Kwale",
+		"bednet": "32.1%",
+		"Malaria": "37.7%",
+		"HealthyPersona": "31",
+		"Geolocation": ""
     },
-    {
-        "County": "Kisumu",
-        "bednet": "62.4%",
-        "Malaria": "45.6%",
-        "HealthyPersona": "29",
-        "Geolocation": ""
+	{
+		"County": "Kisumu",
+		"bednet": "62.4%",
+		"Malaria": "45.6%",
+		"HealthyPersona": "29",
+		"Geolocation": ""
     },
-    {
-        "County": "Baringo",
-        "bednet": "24.2%",
-        "Malaria": "14.9%",
-        "HealthyPersona": "29",
-        "Geolocation": ""
+	{
+		"County": "Baringo",
+		"bednet": "24.2%",
+		"Malaria": "14.9%",
+		"HealthyPersona": "29",
+		"Geolocation": ""
     },
-    {
-        "County": "Laikipia",
-        "bednet": "12.3%",
-        "Malaria": "14.9%",
-        "HealthyPersona": "29",
-        "Geolocation": ""
+	{
+		"County": "Laikipia",
+		"bednet": "12.3%",
+		"Malaria": "14.9%",
+		"HealthyPersona": "29",
+		"Geolocation": ""
     },
-    {
-        "County": "Kilifi",
-        "bednet": "38.5%",
-        "Malaria": "45.4%",
-        "HealthyPersona": "26",
-        "Geolocation": ""
+	{
+		"County": "Kilifi",
+		"bednet": "38.5%",
+		"Malaria": "45.4%",
+		"HealthyPersona": "26",
+		"Geolocation": ""
     },
-    {
-        "County": "Kisii",
-        "bednet": "37.8%",
-        "Malaria": "49%",
-        "HealthyPersona": "26",
-        "Geolocation": ""
+	{
+		"County": "Kisii",
+		"bednet": "37.8%",
+		"Malaria": "49%",
+		"HealthyPersona": "26",
+		"Geolocation": ""
     },
-    {
-        "County": "West Pokot",
-        "bednet": "15.9%",
-        "Malaria": "60.4%",
-        "HealthyPersona": "24",
-        "Geolocation": ""
+	{
+		"County": "West Pokot",
+		"bednet": "15.9%",
+		"Malaria": "60.4%",
+		"HealthyPersona": "24",
+		"Geolocation": ""
     },
-    {
-        "County": "Homa Bay",
-        "bednet": "39.6%",
-        "Malaria": "58.3%",
-        "HealthyPersona": "24",
-        "Geolocation": ""
+	{
+		"County": "Homa Bay",
+		"bednet": "39.6%",
+		"Malaria": "58.3%",
+		"HealthyPersona": "24",
+		"Geolocation": ""
     },
-    {
-        "County": "Kakamega",
-        "bednet": "26.7%",
-        "Malaria": "37.9%",
-        "HealthyPersona": "23",
-        "Geolocation": ""
+	{
+		"County": "Kakamega",
+		"bednet": "26.7%",
+		"Malaria": "37.9%",
+		"HealthyPersona": "23",
+		"Geolocation": ""
     },
-    {
-        "County": "Nandi",
-        "bednet": "18.9%",
-        "Malaria": "50.9%",
-        "HealthyPersona": "23",
-        "Geolocation": ""
+	{
+		"County": "Nandi",
+		"bednet": "18.9%",
+		"Malaria": "50.9%",
+		"HealthyPersona": "23",
+		"Geolocation": ""
     },
-    {
-        "County": "Migori",
-        "bednet": "40.1%",
-        "Malaria": "63%",
-        "HealthyPersona": "23",
-        "Geolocation": ""
+	{
+		"County": "Migori",
+		"bednet": "40.1%",
+		"Malaria": "63%",
+		"HealthyPersona": "23",
+		"Geolocation": ""
     },
-    {
-        "County": "Meru",
-        "bednet": "24%",
-        "Malaria": "42.6%",
-        "HealthyPersona": "22",
-        "Geolocation": ""
+	{
+		"County": "Meru",
+		"bednet": "24%",
+		"Malaria": "42.6%",
+		"HealthyPersona": "22",
+		"Geolocation": ""
     },
-    {
-        "County": "Nyamira",
-        "bednet": "40.9%",
-        "Malaria": "38.9%",
-        "HealthyPersona": "22",
-        "Geolocation": ""
+	{
+		"County": "Nyamira",
+		"bednet": "40.9%",
+		"Malaria": "38.9%",
+		"HealthyPersona": "22",
+		"Geolocation": ""
     },
-    {
-        "County": "Murang'a",
-        "bednet": "11.4%",
-        "Malaria": "36.2%",
-        "HealthyPersona": "22",
-        "Geolocation": ""
+	{
+		"County": "Murang'a",
+		"bednet": "11.4%",
+		"Malaria": "36.2%",
+		"HealthyPersona": "22",
+		"Geolocation": ""
     },
-    {
-        "County": "Siaya",
-        "bednet": "46.7%",
-        "Malaria": "54.4%",
-        "HealthyPersona": "22",
-        "Geolocation": ""
+	{
+		"County": "Siaya",
+		"bednet": "46.7%",
+		"Malaria": "54.4%",
+		"HealthyPersona": "22",
+		"Geolocation": ""
     },
-    {
-        "County": "Wajir",
-        "bednet": "18.3%",
-        "Malaria": "54.8%",
-        "HealthyPersona": "21",
-        "Geolocation": ""
+	{
+		"County": "Wajir",
+		"bednet": "18.3%",
+		"Malaria": "54.8%",
+		"HealthyPersona": "21",
+		"Geolocation": ""
     },
-    {
-        "County": "Bomet",
-        "bednet": "26.3%",
-        "Malaria": "39.5%",
-        "HealthyPersona": "20",
-        "Geolocation": ""
+	{
+		"County": "Bomet",
+		"bednet": "26.3%",
+		"Malaria": "39.5%",
+		"HealthyPersona": "20",
+		"Geolocation": ""
     },
-    {
-        "County": "Bungoma",
-        "bednet": "27.8%",
-        "Malaria": "37.6%",
-        "HealthyPersona": "20",
-        "Geolocation": ""
+	{
+		"County": "Bungoma",
+		"bednet": "27.8%",
+		"Malaria": "37.6%",
+		"HealthyPersona": "20",
+		"Geolocation": ""
     },
-    {
-        "County": "Kiambu",
-        "bednet": "14.5%",
-        "Malaria": "22.8%",
-        "HealthyPersona": "20",
-        "Geolocation": ""
+	{
+		"County": "Kiambu",
+		"bednet": "14.5%",
+		"Malaria": "22.8%",
+		"HealthyPersona": "20",
+		"Geolocation": ""
     },
-    {
-        "County": "Mandera",
-        "bednet": "4.6%",
-        "Malaria": "35.2%",
-        "HealthyPersona": "20",
-        "Geolocation": ""
+	{
+		"County": "Mandera",
+		"bednet": "4.6%",
+		"Malaria": "35.2%",
+		"HealthyPersona": "20",
+		"Geolocation": ""
     },
-    {
-        "County": "Busia",
-        "bednet": "40.7%",
-        "Malaria": "42.8%",
-        "HealthyPersona": "20",
-        "Geolocation": ""
+	{
+		"County": "Busia",
+		"bednet": "40.7%",
+		"Malaria": "42.8%",
+		"HealthyPersona": "20",
+		"Geolocation": ""
     },
-    {
-        "County": "Tana River",
-        "bednet": "45.1%",
-        "Malaria": "63.3%",
-        "HealthyPersona": "19",
-        "Geolocation": ""
+	{
+		"County": "Tana River",
+		"bednet": "45.1%",
+		"Malaria": "63.3%",
+		"HealthyPersona": "19",
+		"Geolocation": ""
     },
-    {
-        "County": "Kirinyaga",
-        "bednet": "30%",
-        "Malaria": "43.2%",
-        "HealthyPersona": "18",
-        "Geolocation": ""
+	{
+		"County": "Kirinyaga",
+		"bednet": "30%",
+		"Malaria": "43.2%",
+		"HealthyPersona": "18",
+		"Geolocation": ""
     },
-    {
-        "County": "Tharaka Nithi",
-        "bednet": "41.3%",
-        "Malaria": "33.8%",
-        "HealthyPersona": "18",
-        "Geolocation": ""
+	{
+		"County": "Tharaka Nithi",
+		"bednet": "41.3%",
+		"Malaria": "33.8%",
+		"HealthyPersona": "18",
+		"Geolocation": ""
     },
-    {
-        "County": "Nyandarua",
-        "bednet": "1.7%",
-        "Malaria": "14.4%",
-        "HealthyPersona": "17",
-        "Geolocation": ""
+	{
+		"County": "Nyandarua",
+		"bednet": "1.7%",
+		"Malaria": "14.4%",
+		"HealthyPersona": "17",
+		"Geolocation": ""
     },
-    {
-        "County": "Machakos",
-        "bednet": "31.7%",
-        "Malaria": "40.9%",
-        "HealthyPersona": "16",
-        "Geolocation": ""
+	{
+		"County": "Machakos",
+		"bednet": "31.7%",
+		"Malaria": "40.9%",
+		"HealthyPersona": "16",
+		"Geolocation": ""
     },
-    {
-        "County": "Kajiado",
-        "bednet": "30.4%",
-        "Malaria": "12.3%",
-        "HealthyPersona": "15",
-        "Geolocation": ""
+	{
+		"County": "Kajiado",
+		"bednet": "30.4%",
+		"Malaria": "12.3%",
+		"HealthyPersona": "15",
+		"Geolocation": ""
     },
-    {
-        "County": "Makueni",
-        "bednet": "10.8%",
-        "Malaria": "51.1%",
-        "HealthyPersona": "15",
-        "Geolocation": ""
+	{
+		"County": "Makueni",
+		"bednet": "10.8%",
+		"Malaria": "51.1%",
+		"HealthyPersona": "15",
+		"Geolocation": ""
     },
-    {
-        "County": "Turkana",
-        "bednet": "6%",
-        "Malaria": "55.4%",
-        "HealthyPersona": "14",
-        "Geolocation": ""
+	{
+		"County": "Turkana",
+		"bednet": "6%",
+		"Malaria": "55.4%",
+		"HealthyPersona": "14",
+		"Geolocation": ""
     },
-    {
-        "County": "Uasin Gishu",
-        "bednet": "33.6%",
-        "Malaria": "43.4%",
-        "HealthyPersona": "13",
-        "Geolocation": ""
+	{
+		"County": "Uasin Gishu",
+		"bednet": "33.6%",
+		"Malaria": "43.4%",
+		"HealthyPersona": "13",
+		"Geolocation": ""
     },
-    {
-        "County": "Kericho",
-        "bednet": "33.8%",
-        "Malaria": "51.6%",
-        "HealthyPersona": "11",
-        "Geolocation": ""
+	{
+		"County": "Kericho",
+		"bednet": "33.8%",
+		"Malaria": "51.6%",
+		"HealthyPersona": "11",
+		"Geolocation": ""
     },
-    {
-        "County": "Nakuru",
-        "bednet": "9.8%",
-        "Malaria": "0%",
-        "HealthyPersona": "11",
-        "Geolocation": ""
+	{
+		"County": "Nakuru",
+		"bednet": "9.8%",
+		"Malaria": "0%",
+		"HealthyPersona": "11",
+		"Geolocation": ""
     },
-    {
-        "County": "Mombasa",
-        "bednet": "50.6%",
-        "Malaria": "48%",
-        "HealthyPersona": "11",
-        "Geolocation": ""
+	{
+		"County": "Mombasa",
+		"bednet": "50.6%",
+		"Malaria": "48%",
+		"HealthyPersona": "11",
+		"Geolocation": ""
     },
-    {
-        "County": "Vihiga",
-        "bednet": "28.5%",
-        "Malaria": "33.4%",
-        "HealthyPersona": "10",
-        "Geolocation": ""
+	{
+		"County": "Vihiga",
+		"bednet": "28.5%",
+		"Malaria": "33.4%",
+		"HealthyPersona": "10",
+		"Geolocation": ""
     },
-    {
-        "County": "Trans Nzoia",
-        "bednet": "23%",
-        "Malaria": "34.8%",
-        "HealthyPersona": "8",
-        "Geolocation": ""
+	{
+		"County": "Trans Nzoia",
+		"bednet": "23%",
+		"Malaria": "34.8%",
+		"HealthyPersona": "8",
+		"Geolocation": ""
     },
-    {
-        "County": "Nairobi",
-        "bednet": "38%",
-        "Malaria": "37.7%",
-        "HealthyPersona": "7",
-        "Geolocation": ""
+	{
+		"County": "Nairobi",
+		"bednet": "38%",
+		"Malaria": "37.7%",
+		"HealthyPersona": "7",
+		"Geolocation": ""
     },
-    {
-        "County": "Narok",
-        "bednet": "12.9%",
-        "Malaria": "55.8%",
-        "HealthyPersona": "7",
-        "Geolocation": ""
+	{
+		"County": "Narok",
+		"bednet": "12.9%",
+		"Malaria": "55.8%",
+		"HealthyPersona": "7",
+		"Geolocation": ""
     },
-    {
-        "County": ""
+	{
+		"County": ""
     }
 ]

@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
+	"type": "FeatureCollection",
 
-    "features": [{
-            "type": "Feature",
-            "id": 0,
-            "properties": {
-                "OBJECTID": 1,
-                "ID_": 5543,
-                "COUNTY_NAM": "NAIROBI",
-                "CONST_CODE": 288,
-                "CONSTITUEN": "KAMUKUNJI",
-                "COUNTY_COD": 47,
-                "Shape_Leng": 1.55978672217,
-                "Shape_Area": 0.057422949
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+	"features": [{
+			"type": "Feature",
+			"id": 0,
+			"properties": {
+				"OBJECTID": 1,
+				"ID_": 5543,
+				"COUNTY_NAM": "NAIROBI",
+				"CONST_CODE": 288,
+				"CONSTITUEN": "KAMUKUNJI",
+				"COUNTY_COD": 47,
+				"Shape_Leng": 1.55978672217,
+				"Shape_Area": 0.057422949
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.904582592483159, -1.160707895679255],
                         [36.908086312483185, -1.161573011679254],
@@ -271,23 +271,23 @@
                         [36.904582592483159, -1.160707895679255]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 1,
-            "properties": {
-                "OBJECTID": 2,
-                "ID_": 6634,
-                "COUNTY_NAM": "MOMBASA",
-                "CONST_CODE": 3,
-                "CONSTITUEN": "KISAUNI",
-                "COUNTY_COD": 1,
-                "Shape_Leng": 0.88558616055,
-                "Shape_Area": 0.02332510618
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 1,
+			"properties": {
+				"OBJECTID": 2,
+				"ID_": 6634,
+				"COUNTY_NAM": "MOMBASA",
+				"CONST_CODE": 3,
+				"CONSTITUEN": "KISAUNI",
+				"COUNTY_COD": 1,
+				"Shape_Leng": 0.88558616055,
+				"Shape_Area": 0.02332510618
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.683110726483157, -4.060742933679253],
                         [39.680913461483208, -4.062329847679226],
@@ -477,23 +477,23 @@
                         [39.680488408483193, -4.048673268679241]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 2,
-            "properties": {
-                "OBJECTID": 3,
-                "ID_": 6600,
-                "COUNTY_NAM": "KWALE",
-                "CONST_CODE": 10,
-                "CONSTITUEN": "KINANGO",
-                "COUNTY_COD": 2,
-                "Shape_Leng": 4.28418177601,
-                "Shape_Area": 0.75826601303
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 2,
+			"properties": {
+				"OBJECTID": 3,
+				"ID_": 6600,
+				"COUNTY_NAM": "KWALE",
+				"CONST_CODE": 10,
+				"CONSTITUEN": "KINANGO",
+				"COUNTY_COD": 2,
+				"Shape_Leng": 4.28418177601,
+				"Shape_Area": 0.75826601303
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.320928109483184, -3.570447523679267],
                         [39.319341195483155, -3.575147230679253],
@@ -814,23 +814,23 @@
                         [39.320928109483184, -3.570447523679267]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 3,
-            "properties": {
-                "OBJECTID": 4,
-                "ID_": 6731,
-                "COUNTY_NAM": "KILIFI",
-                "CONST_CODE": 13,
-                "CONSTITUEN": "KALOLENI",
-                "COUNTY_COD": 3,
-                "Shape_Leng": 5.33308007101,
-                "Shape_Area": 1.02533838151
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 3,
+			"properties": {
+				"OBJECTID": 4,
+				"ID_": 6731,
+				"COUNTY_NAM": "KILIFI",
+				"CONST_CODE": 13,
+				"CONSTITUEN": "KALOLENI",
+				"COUNTY_COD": 3,
+				"Shape_Leng": 5.33308007101,
+				"Shape_Area": 1.02533838151
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.711125863483169, -3.91114576567924],
                         [39.706914437483185, -3.911573011679256],
@@ -1538,23 +1538,23 @@
                         [39.711125863483169, -3.91114576567924]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 4,
-            "properties": {
-                "OBJECTID": 5,
-                "ID_": 5806,
-                "COUNTY_NAM": "TANA RIVER",
-                "CONST_CODE": 19,
-                "CONSTITUEN": "GALOLE",
-                "COUNTY_COD": 4,
-                "Shape_Leng": 10.2804493709,
-                "Shape_Area": 3.18421263617
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 4,
+			"properties": {
+				"OBJECTID": 5,
+				"ID_": 5806,
+				"COUNTY_NAM": "TANA RIVER",
+				"CONST_CODE": 19,
+				"CONSTITUEN": "GALOLE",
+				"COUNTY_COD": 4,
+				"Shape_Leng": 10.2804493709,
+				"Shape_Area": 3.18421263617
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.028142464483203, -0.003980238679221],
                         [39.036321175483174, -0.004163343679241],
@@ -2472,23 +2472,23 @@
                         [39.028142464483203, -0.003980238679221]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 5,
-            "properties": {
-                "OBJECTID": 6,
-                "ID_": 6276,
-                "COUNTY_NAM": "LAMU",
-                "CONST_CODE": 22,
-                "CONSTITUEN": "LAMU WEST",
-                "COUNTY_COD": 5,
-                "Shape_Leng": 3.74468915941,
-                "Shape_Area": 0.74374311266
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 5,
+			"properties": {
+				"OBJECTID": 6,
+				"ID_": 6276,
+				"COUNTY_NAM": "LAMU",
+				"CONST_CODE": 22,
+				"CONSTITUEN": "LAMU WEST",
+				"COUNTY_COD": 5,
+				"Shape_Leng": 3.74468915941,
+				"Shape_Area": 0.74374311266
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [41.077886117483153, -2.382459242679264],
                         [40.859746468483188, -2.555432875679234],
@@ -2611,23 +2611,23 @@
                         [41.077886117483153, -2.382459242679264]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 6,
-            "properties": {
-                "OBJECTID": 7,
-                "ID_": 6467,
-                "COUNTY_NAM": "TAITA TAVETA",
-                "CONST_CODE": 24,
-                "CONSTITUEN": "WUNDANYI",
-                "COUNTY_COD": 6,
-                "Shape_Leng": 5.5844513245,
-                "Shape_Area": 1.39385877374
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 6,
+			"properties": {
+				"OBJECTID": 7,
+				"ID_": 6467,
+				"COUNTY_NAM": "TAITA TAVETA",
+				"CONST_CODE": 24,
+				"CONSTITUEN": "WUNDANYI",
+				"COUNTY_COD": 6,
+				"Shape_Leng": 5.5844513245,
+				"Shape_Area": 1.39385877374
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [38.173894418483194, -2.699842054679269],
                         [38.182134164483152, -2.703931410679221],
@@ -3179,23 +3179,23 @@
                         [38.173894418483194, -2.699842054679269]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 7,
-            "properties": {
-                "OBJECTID": 8,
-                "ID_": 2382,
-                "COUNTY_NAM": "GARISSA",
-                "CONST_CODE": 28,
-                "CONSTITUEN": "BALAMBALA",
-                "COUNTY_COD": 7,
-                "Shape_Leng": 10.454326269399999,
-                "Shape_Area": 3.54169829321
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 7,
+			"properties": {
+				"OBJECTID": 8,
+				"ID_": 2382,
+				"COUNTY_NAM": "GARISSA",
+				"CONST_CODE": 28,
+				"CONSTITUEN": "BALAMBALA",
+				"COUNTY_COD": 7,
+				"Shape_Leng": 10.454326269399999,
+				"Shape_Area": 3.54169829321
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.612192051483184, 0.686615948320761],
                         [39.613896859483184, 0.683031480320776],
@@ -4337,23 +4337,23 @@
                         [39.612192051483184, 0.686615948320761]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 8,
-            "properties": {
-                "OBJECTID": 9,
-                "ID_": 663,
-                "COUNTY_NAM": "WAJIR",
-                "CONST_CODE": 36,
-                "CONSTITUEN": "WAJIR WEST",
-                "COUNTY_COD": 8,
-                "Shape_Leng": 9.969422025169999,
-                "Shape_Area": 4.60636555222
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 8,
+			"properties": {
+				"OBJECTID": 9,
+				"ID_": 663,
+				"COUNTY_NAM": "WAJIR",
+				"CONST_CODE": 36,
+				"CONSTITUEN": "WAJIR WEST",
+				"COUNTY_COD": 8,
+				"Shape_Leng": 9.969422025169999,
+				"Shape_Area": 4.60636555222
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [39.785893929483159, 3.692858140320762],
                         [39.785893929483159, 3.61284105032075],
@@ -5470,23 +5470,23 @@
                         [39.785893929483159, 3.692858140320762]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 9,
-            "properties": {
-                "OBJECTID": 10,
-                "ID_": 264,
-                "COUNTY_NAM": "MANDERA",
-                "CONST_CODE": 42,
-                "CONSTITUEN": "MANDERA SOUTH",
-                "COUNTY_COD": 9,
-                "Shape_Leng": 7.19616328425,
-                "Shape_Area": 2.11434477576
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 9,
+			"properties": {
+				"OBJECTID": 10,
+				"ID_": 264,
+				"COUNTY_NAM": "MANDERA",
+				"CONST_CODE": 42,
+				"CONSTITUEN": "MANDERA SOUTH",
+				"COUNTY_COD": 9,
+				"Shape_Leng": 7.19616328425,
+				"Shape_Area": 2.11434477576
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
                     [
                         [
                             [41.733342660483167, 3.986620347320748],
@@ -6192,23 +6192,23 @@
                         ]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 10,
-            "properties": {
-                "OBJECTID": 11,
-                "ID_": 133,
-                "COUNTY_NAM": "MARSABIT",
-                "CONST_CODE": 46,
-                "CONSTITUEN": "NORTH HORR",
-                "COUNTY_COD": 10,
-                "Shape_Leng": 11.8969963206,
-                "Shape_Area": 6.18501666925
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 10,
+			"properties": {
+				"OBJECTID": 11,
+				"ID_": 133,
+				"COUNTY_NAM": "MARSABIT",
+				"CONST_CODE": 46,
+				"CONSTITUEN": "NORTH HORR",
+				"COUNTY_COD": 10,
+				"Shape_Leng": 11.8969963206,
+				"Shape_Area": 6.18501666925
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.255925668483194, 4.451830308320777],
                         [36.264714730483199, 4.448229234320761],
@@ -7408,23 +7408,23 @@
                         [36.255925668483194, 4.451830308320777]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 11,
-            "properties": {
-                "OBJECTID": 12,
-                "ID_": 812,
-                "COUNTY_NAM": "ISIOLO",
-                "CONST_CODE": 49,
-                "CONSTITUEN": "ISIOLO NORTH",
-                "COUNTY_COD": 11,
-                "Shape_Leng": 10.0183616426,
-                "Shape_Area": 2.06364774463
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 11,
+			"properties": {
+				"OBJECTID": 12,
+				"ID_": 812,
+				"COUNTY_NAM": "ISIOLO",
+				"CONST_CODE": 49,
+				"CONSTITUEN": "ISIOLO NORTH",
+				"COUNTY_COD": 11,
+				"Shape_Leng": 10.0183616426,
+				"Shape_Area": 2.06364774463
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
                     [
                         [
                             [37.38672400748316, 0.274034898320733],
@@ -8885,23 +8885,23 @@
                         ]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 12,
-            "properties": {
-                "OBJECTID": 13,
-                "ID_": 2633,
-                "COUNTY_NAM": "MERU",
-                "CONST_CODE": 56,
-                "CONSTITUEN": "NORTH IMENTI",
-                "COUNTY_COD": 12,
-                "Shape_Leng": 4.20468088307,
-                "Shape_Area": 0.56801994331
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 12,
+			"properties": {
+				"OBJECTID": 13,
+				"ID_": 2633,
+				"COUNTY_NAM": "MERU",
+				"CONST_CODE": 56,
+				"CONSTITUEN": "NORTH IMENTI",
+				"COUNTY_COD": 12,
+				"Shape_Leng": 4.20468088307,
+				"Shape_Area": 0.56801994331
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [38.144109261483202, 0.421862046320766],
                         [38.159917367483153, 0.376634995320783],
@@ -9503,23 +9503,23 @@
                         [38.144109261483202, 0.421862046320766]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 13,
-            "properties": {
-                "OBJECTID": 14,
-                "ID_": 3303,
-                "COUNTY_NAM": "THARAKA - NITHI",
-                "CONST_CODE": 60,
-                "CONSTITUEN": "MAARA",
-                "COUNTY_COD": 13,
-                "Shape_Leng": 2.9883739317,
-                "Shape_Area": 0.20962152815
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 13,
+			"properties": {
+				"OBJECTID": 14,
+				"ID_": 3303,
+				"COUNTY_NAM": "THARAKA - NITHI",
+				"CONST_CODE": 60,
+				"CONSTITUEN": "MAARA",
+				"COUNTY_COD": 13,
+				"Shape_Leng": 2.9883739317,
+				"Shape_Area": 0.20962152815
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [37.99890662548318, 0.064440171320766],
                         [38.000920785483167, 0.061632554320736],
@@ -10057,23 +10057,23 @@
                         [37.99890662548318, 0.064440171320766]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 14,
-            "properties": {
-                "OBJECTID": 15,
-                "ID_": 3567,
-                "COUNTY_NAM": "EMBU",
-                "CONST_CODE": 64,
-                "CONSTITUEN": "RUNYENJES",
-                "COUNTY_COD": 14,
-                "Shape_Leng": 3.20577801845,
-                "Shape_Area": 0.22934267389
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 14,
+			"properties": {
+				"OBJECTID": 15,
+				"ID_": 3567,
+				"COUNTY_NAM": "EMBU",
+				"CONST_CODE": 64,
+				"CONSTITUEN": "RUNYENJES",
+				"COUNTY_COD": 14,
+				"Shape_Leng": 3.20577801845,
+				"Shape_Area": 0.22934267389
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
                     [
                         [
                             [37.484136117483153, -0.591443617679263],
@@ -10681,23 +10681,23 @@
                         ]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 15,
-            "properties": {
-                "OBJECTID": 16,
-                "ID_": 5251,
-                "COUNTY_NAM": "KITUI",
-                "CONST_CODE": 73,
-                "CONSTITUEN": "KITUI EAST",
-                "COUNTY_COD": 15,
-                "Shape_Leng": 8.744487503349999,
-                "Shape_Area": 2.47528086643
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 15,
+			"properties": {
+				"OBJECTID": 16,
+				"ID_": 5251,
+				"COUNTY_NAM": "KITUI",
+				"CONST_CODE": 73,
+				"CONSTITUEN": "KITUI EAST",
+				"COUNTY_COD": 15,
+				"Shape_Leng": 8.744487503349999,
+				"Shape_Area": 2.47528086643
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [38.328313363483169, -0.070081312679238],
                         [38.331731332483166, -0.070752699679249],
@@ -11936,23 +11936,23 @@
                         [38.328313363483169, -0.070081312679238]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 16,
-            "properties": {
-                "OBJECTID": 17,
-                "ID_": 5438,
-                "COUNTY_NAM": "MACHAKOS",
-                "CONST_CODE": 76,
-                "CONSTITUEN": "YATTA",
-                "COUNTY_COD": 16,
-                "Shape_Leng": 5.69857534187,
-                "Shape_Area": 0.49098460969
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 16,
+			"properties": {
+				"OBJECTID": 17,
+				"ID_": 5438,
+				"COUNTY_NAM": "MACHAKOS",
+				"CONST_CODE": 76,
+				"CONSTITUEN": "YATTA",
+				"COUNTY_COD": 16,
+				"Shape_Leng": 5.69857534187,
+				"Shape_Area": 0.49098460969
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [37.744623066483193, -0.781862207679242],
                         [37.746343148483156, -0.785474379679217],
@@ -12991,23 +12991,23 @@
                         [37.744623066483193, -0.781862207679242]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 17,
-            "properties": {
-                "OBJECTID": 18,
-                "ID_": 3699,
-                "COUNTY_NAM": "NYANDARUA",
-                "CONST_CODE": 90,
-                "CONSTITUEN": "KIPIPIRI",
-                "COUNTY_COD": 18,
-                "Shape_Leng": 3.48082504881,
-                "Shape_Area": 0.26542309571
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 17,
+			"properties": {
+				"OBJECTID": 18,
+				"ID_": 3699,
+				"COUNTY_NAM": "NYANDARUA",
+				"CONST_CODE": 90,
+				"CONSTITUEN": "KIPIPIRI",
+				"COUNTY_COD": 18,
+				"Shape_Leng": 3.48082504881,
+				"Shape_Area": 0.26542309571
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.504320681483186, 0.094996587320734],
                         [36.512090218483188, 0.086656968320765],
@@ -13453,23 +13453,23 @@
                         [36.504320681483186, 0.094996587320734]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 18,
-            "properties": {
-                "OBJECTID": 19,
-                "ID_": 3111,
-                "COUNTY_NAM": "NYERI",
-                "CONST_CODE": 95,
-                "CONSTITUEN": "KIENI",
-                "COUNTY_COD": 19,
-                "Shape_Leng": 2.98028956743,
-                "Shape_Area": 0.27090667838
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 18,
+			"properties": {
+				"OBJECTID": 19,
+				"ID_": 3111,
+				"COUNTY_NAM": "NYERI",
+				"CONST_CODE": 95,
+				"CONSTITUEN": "KIENI",
+				"COUNTY_COD": 19,
+				"Shape_Leng": 2.98028956743,
+				"Shape_Area": 0.27090667838
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [37.078496468483188, -0.000379164679262],
                         [37.081120980483199, -0.00556715267925],
@@ -13915,23 +13915,23 @@
                         [37.078496468483188, -0.000379164679262]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 19,
-            "properties": {
-                "OBJECTID": 20,
-                "ID_": 3965,
-                "COUNTY_NAM": "KIRINYAGA",
-                "CONST_CODE": 101,
-                "CONSTITUEN": "GICHUGU",
-                "COUNTY_COD": 20,
-                "Shape_Leng": 1.79453434734,
-                "Shape_Area": 0.11984024832
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 19,
+			"properties": {
+				"OBJECTID": 20,
+				"ID_": 3965,
+				"COUNTY_NAM": "KIRINYAGA",
+				"CONST_CODE": 101,
+				"CONSTITUEN": "GICHUGU",
+				"COUNTY_COD": 20,
+				"Shape_Leng": 1.79453434734,
+				"Shape_Area": 0.11984024832
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [37.423894418483194, -0.441968519679224],
                         [37.423711312483185, -0.445874769679224],
@@ -14209,23 +14209,23 @@
                         [37.423894418483194, -0.441968519679224]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 20,
-            "properties": {
-                "OBJECTID": 21,
-                "ID_": 4145,
-                "COUNTY_NAM": "MURANG'A",
-                "CONST_CODE": 105,
-                "CONSTITUEN": "MATHIOYA",
-                "COUNTY_COD": 21,
-                "Shape_Leng": 2.43719771684,
-                "Shape_Area": 0.20511432082
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 20,
+			"properties": {
+				"OBJECTID": 21,
+				"ID_": 4145,
+				"COUNTY_NAM": "MURANG'A",
+				"CONST_CODE": 105,
+				"CONSTITUEN": "MATHIOYA",
+				"COUNTY_COD": 21,
+				"Shape_Leng": 2.43719771684,
+				"Shape_Area": 0.20511432082
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.785527718483188, -0.568555433679253],
                         [36.793096078483181, -0.571057875679233],
@@ -14731,23 +14731,23 @@
                         [36.785527718483188, -0.568555433679253]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 21,
-            "properties": {
-                "OBJECTID": 22,
-                "ID_": 4921,
-                "COUNTY_NAM": "KIAMBU",
-                "CONST_CODE": 112,
-                "CONSTITUEN": "GATUNDU NORTH",
-                "COUNTY_COD": 22,
-                "Shape_Leng": 3.00892182622,
-                "Shape_Area": 0.20655368085
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 21,
+			"properties": {
+				"OBJECTID": 22,
+				"ID_": 4921,
+				"COUNTY_NAM": "KIAMBU",
+				"CONST_CODE": 112,
+				"CONSTITUEN": "GATUNDU NORTH",
+				"COUNTY_COD": 22,
+				"Shape_Leng": 3.00892182622,
+				"Shape_Area": 0.20655368085
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.686770107483191, -0.764234238679253],
                         [36.690495980483199, -0.768140394679224],
@@ -15285,23 +15285,23 @@
                         [36.686770107483191, -0.764234238679253]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 22,
-            "properties": {
-                "OBJECTID": 23,
-                "ID_": 1,
-                "COUNTY_NAM": "TURKANA",
-                "CONST_CODE": 123,
-                "CONSTITUEN": "TURKANA NORTH",
-                "COUNTY_COD": 23,
-                "Shape_Leng": 14.1898741549,
-                "Shape_Area": 5.70813539469
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 22,
+			"properties": {
+				"OBJECTID": 23,
+				"ID_": 1,
+				"COUNTY_NAM": "TURKANA",
+				"CONST_CODE": 123,
+				"CONSTITUEN": "TURKANA NORTH",
+				"COUNTY_COD": 23,
+				"Shape_Leng": 14.1898741549,
+				"Shape_Area": 5.70813539469
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.632329476483157, 5.372667710320738],
                         [35.635930550483174, 5.371874253320752],
@@ -16831,23 +16831,23 @@
                         [35.632329476483157, 5.372667710320738]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 23,
-            "properties": {
-                "OBJECTID": 24,
-                "ID_": 519,
-                "COUNTY_NAM": "WEST POKOT",
-                "CONST_CODE": 129,
-                "CONSTITUEN": "KAPENGURIA",
-                "COUNTY_COD": 24,
-                "Shape_Leng": 4.67142789986,
-                "Shape_Area": 0.7545900016
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 23,
+			"properties": {
+				"OBJECTID": 24,
+				"ID_": 519,
+				"COUNTY_NAM": "WEST POKOT",
+				"CONST_CODE": 129,
+				"CONSTITUEN": "KAPENGURIA",
+				"COUNTY_COD": 24,
+				"Shape_Leng": 4.67142789986,
+				"Shape_Area": 0.7545900016
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.259148326483164, 2.436028305320743],
                         [35.261113656483182, 2.435472886320778],
@@ -17470,23 +17470,23 @@
                         [35.259148326483164, 2.436028305320743]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 24,
-            "properties": {
-                "OBJECTID": 25,
-                "ID_": 401,
-                "COUNTY_NAM": "SAMBURU",
-                "CONST_CODE": 134,
-                "CONSTITUEN": "SAMBURU NORTH",
-                "COUNTY_COD": 25,
-                "Shape_Leng": 7.83144153059,
-                "Shape_Area": 1.70766586839
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 24,
+			"properties": {
+				"OBJECTID": 25,
+				"ID_": 401,
+				"COUNTY_NAM": "SAMBURU",
+				"CONST_CODE": 134,
+				"CONSTITUEN": "SAMBURU NORTH",
+				"COUNTY_COD": 25,
+				"Shape_Leng": 7.83144153059,
+				"Shape_Area": 1.70766586839
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.758973688483188, 2.512693569320728],
                         [36.766118539483152, 2.491259019320747],
@@ -18813,23 +18813,23 @@
                         [36.758973688483188, 2.512693569320728]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 25,
-            "properties": {
-                "OBJECTID": 26,
-                "ID_": 1723,
-                "COUNTY_NAM": "UASIN GISHU",
-                "CONST_CODE": 144,
-                "CONSTITUEN": "AINABKOI",
-                "COUNTY_COD": 27,
-                "Shape_Leng": 3.79630380519,
-                "Shape_Area": 0.27589006735
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 25,
+			"properties": {
+				"OBJECTID": 26,
+				"ID_": 1723,
+				"COUNTY_NAM": "UASIN GISHU",
+				"CONST_CODE": 144,
+				"CONSTITUEN": "AINABKOI",
+				"COUNTY_COD": 27,
+				"Shape_Leng": 3.79630380519,
+				"Shape_Area": 0.27589006735
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.42105754348318, 0.937293850320768],
                         [35.419316781483182, 0.929430406320759],
@@ -19398,23 +19398,23 @@
                         [35.42105754348318, 0.937293850320768]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 26,
-            "properties": {
-                "OBJECTID": 27,
-                "ID_": 778,
-                "COUNTY_NAM": "ELEGEYO-MARAKWET",
-                "CONST_CODE": 147,
-                "CONSTITUEN": "MARAKWET EAST",
-                "COUNTY_COD": 28,
-                "Shape_Leng": 3.8541213715,
-                "Shape_Area": 0.24576217495
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 26,
+			"properties": {
+				"OBJECTID": 27,
+				"ID_": 778,
+				"COUNTY_NAM": "ELEGEYO-MARAKWET",
+				"CONST_CODE": 147,
+				"CONSTITUEN": "MARAKWET EAST",
+				"COUNTY_COD": 28,
+				"Shape_Leng": 3.8541213715,
+				"Shape_Area": 0.24576217495
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.6986421264832, 1.278294274320726],
                         [35.698308480483199, 1.276659410320744],
@@ -20073,23 +20073,23 @@
                         [35.6986421264832, 1.278294274320726]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 27,
-            "properties": {
-                "OBJECTID": 28,
-                "ID_": 1582,
-                "COUNTY_NAM": "NANDI",
-                "CONST_CODE": 156,
-                "CONSTITUEN": "MOSOP",
-                "COUNTY_COD": 29,
-                "Shape_Leng": 3.05726592217,
-                "Shape_Area": 0.23023133721
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 27,
+			"properties": {
+				"OBJECTID": 28,
+				"ID_": 1582,
+				"COUNTY_NAM": "NANDI",
+				"CONST_CODE": 156,
+				"CONSTITUEN": "MOSOP",
+				"COUNTY_COD": 29,
+				"Shape_Leng": 3.05726592217,
+				"Shape_Area": 0.23023133721
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.046941293483194, 0.560472886320779],
                         [35.07312537548318, 0.549242417320781],
@@ -20575,23 +20575,23 @@
                         [35.046941293483194, 0.560472886320779]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 28,
-            "properties": {
-                "OBJECTID": 29,
-                "ID_": 1555,
-                "COUNTY_NAM": "BARINGO",
-                "CONST_CODE": 159,
-                "CONSTITUEN": "BARINGO CENTRAL",
-                "COUNTY_COD": 30,
-                "Shape_Leng": 5.81571392065,
-                "Shape_Area": 0.88451236882
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 28,
+			"properties": {
+				"OBJECTID": 29,
+				"ID_": 1555,
+				"COUNTY_NAM": "BARINGO",
+				"CONST_CODE": 159,
+				"CONSTITUEN": "BARINGO CENTRAL",
+				"COUNTY_COD": 30,
+				"Shape_Leng": 5.81571392065,
+				"Shape_Area": 0.88451236882
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.02930213248316, 1.273668687320762],
                         [36.03711463248316, 1.26146165632076],
@@ -21450,23 +21450,23 @@
                         [36.02930213248316, 1.273668687320762]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 29,
-            "properties": {
-                "OBJECTID": 30,
-                "ID_": 1416,
-                "COUNTY_NAM": "LAIKIPIA",
-                "CONST_CODE": 165,
-                "CONSTITUEN": "LAIKIPIA NORTH",
-                "COUNTY_COD": 31,
-                "Shape_Leng": 5.22280558966,
-                "Shape_Area": 0.77470766941
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 29,
+			"properties": {
+				"OBJECTID": 30,
+				"ID_": 1416,
+				"COUNTY_NAM": "LAIKIPIA",
+				"CONST_CODE": 165,
+				"CONSTITUEN": "LAIKIPIA NORTH",
+				"COUNTY_COD": 31,
+				"Shape_Leng": 5.22280558966,
+				"Shape_Area": 0.77470766941
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.830510629483165, 0.819872300320751],
                         [36.833745492483153, 0.812853257320737],
@@ -22144,23 +22144,23 @@
                         [36.830510629483165, 0.819872300320751]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 30,
-            "properties": {
-                "OBJECTID": 31,
-                "ID_": 2854,
-                "COUNTY_NAM": "NAKURU",
-                "CONST_CODE": 172,
-                "CONSTITUEN": "SUBUKIA",
-                "COUNTY_COD": 32,
-                "Shape_Leng": 6.33797592365,
-                "Shape_Area": 0.60725078911
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 30,
+			"properties": {
+				"OBJECTID": 31,
+				"ID_": 2854,
+				"COUNTY_NAM": "NAKURU",
+				"CONST_CODE": 172,
+				"CONSTITUEN": "SUBUKIA",
+				"COUNTY_COD": 32,
+				"Shape_Leng": 6.33797592365,
+				"Shape_Area": 0.60725078911
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.259892953483181, 0.059618394320748],
                         [36.257146371483195, 0.056017320320732],
@@ -22947,23 +22947,23 @@
                         [36.259892953483181, 0.059618394320748]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 31,
-            "properties": {
-                "OBJECTID": 32,
-                "ID_": 5181,
-                "COUNTY_NAM": "NAROK",
-                "CONST_CODE": 181,
-                "CONSTITUEN": "NAROK SOUTH",
-                "COUNTY_COD": 33,
-                "Shape_Leng": 6.68597072631,
-                "Shape_Area": 1.45350676401
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 31,
+			"properties": {
+				"OBJECTID": 32,
+				"ID_": 5181,
+				"COUNTY_NAM": "NAROK",
+				"CONST_CODE": 181,
+				"CONSTITUEN": "NAROK SOUTH",
+				"COUNTY_COD": 33,
+				"Shape_Leng": 6.68597072631,
+				"Shape_Area": 1.45350676401
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.350530160483167, -0.974439222679225],
                         [35.352117074483196, -0.971753675679227],
@@ -23712,23 +23712,23 @@
                         [35.017859155483158, -1.516891480679251]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 32,
-            "properties": {
-                "OBJECTID": 33,
-                "ID_": 6202,
-                "COUNTY_NAM": "KAJIADO",
-                "CONST_CODE": 184,
-                "CONSTITUEN": "KAJIADO CENTRAL",
-                "COUNTY_COD": 34,
-                "Shape_Leng": 7.16441555269,
-                "Shape_Area": 1.77912132642
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 32,
+			"properties": {
+				"OBJECTID": 33,
+				"ID_": 6202,
+				"COUNTY_NAM": "KAJIADO",
+				"CONST_CODE": 184,
+				"CONSTITUEN": "KAJIADO CENTRAL",
+				"COUNTY_COD": 34,
+				"Shape_Leng": 7.16441555269,
+				"Shape_Area": 1.77912132642
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [36.669744027483198, -1.32606275767927],
                         [36.675542367483153, -1.330274183679253],
@@ -24496,23 +24496,23 @@
                         [36.669744027483198, -1.32606275767927]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 33,
-            "properties": {
-                "OBJECTID": 34,
-                "ID_": 6213,
-                "COUNTY_NAM": "MAKUENI",
-                "CONST_CODE": 87,
-                "CONSTITUEN": "KIBWEZI WEST",
-                "COUNTY_COD": 17,
-                "Shape_Leng": 5.74677892114,
-                "Shape_Area": 0.66459009423
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 33,
+			"properties": {
+				"OBJECTID": 34,
+				"ID_": 6213,
+				"COUNTY_NAM": "MAKUENI",
+				"CONST_CODE": 87,
+				"CONSTITUEN": "KIBWEZI WEST",
+				"COUNTY_COD": 17,
+				"Shape_Leng": 5.74677892114,
+				"Shape_Area": 0.66459009423
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [37.487309945483155, -1.517957289679262],
                         [37.49109412548318, -1.519971449679249],
@@ -25508,23 +25508,23 @@
                         [37.487309945483155, -1.517957289679262]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 34,
-            "properties": {
-                "OBJECTID": 35,
-                "ID_": 3434,
-                "COUNTY_NAM": "KERICHO",
-                "CONST_CODE": 192,
-                "CONSTITUEN": "BELGUT",
-                "COUNTY_COD": 35,
-                "Shape_Leng": 3.4293911554,
-                "Shape_Area": 0.20964797953
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 34,
+			"properties": {
+				"OBJECTID": 35,
+				"ID_": 3434,
+				"COUNTY_NAM": "KERICHO",
+				"CONST_CODE": 192,
+				"CONSTITUEN": "BELGUT",
+				"COUNTY_COD": 35,
+				"Shape_Leng": 3.4293911554,
+				"Shape_Area": 0.20964797953
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.458501351483157, 0.010851304320736],
                         [35.46429969148317, 0.009630601320734],
@@ -26143,23 +26143,23 @@
                         [35.458501351483157, 0.010851304320736]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 35,
-            "properties": {
-                "OBJECTID": 36,
-                "ID_": 1819,
-                "COUNTY_NAM": "KAKAMEGA",
-                "CONST_CODE": 209,
-                "CONSTITUEN": "SHINYALU",
-                "COUNTY_COD": 37,
-                "Shape_Leng": 3.81209259444,
-                "Shape_Area": 0.24446094982
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 35,
+			"properties": {
+				"OBJECTID": 36,
+				"ID_": 1819,
+				"COUNTY_NAM": "KAKAMEGA",
+				"CONST_CODE": 209,
+				"CONSTITUEN": "SHINYALU",
+				"COUNTY_COD": 37,
+				"Shape_Leng": 3.81209259444,
+				"Shape_Area": 0.24446094982
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.05496981748319, 0.899640164320769],
                         [35.05609656648317, 0.898241441320747],
@@ -26929,23 +26929,23 @@
                         [35.05496981748319, 0.899640164320769]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 36,
-            "properties": {
-                "OBJECTID": 37,
-                "ID_": 2515,
-                "COUNTY_NAM": "VIHIGA",
-                "CONST_CODE": 213,
-                "CONSTITUEN": "HAMISI",
-                "COUNTY_COD": 38,
-                "Shape_Leng": 1.24925510587,
-                "Shape_Area": 0.04549045865
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 36,
+			"properties": {
+				"OBJECTID": 37,
+				"ID_": 2515,
+				"COUNTY_NAM": "VIHIGA",
+				"CONST_CODE": 213,
+				"CONSTITUEN": "HAMISI",
+				"COUNTY_COD": 38,
+				"Shape_Leng": 1.24925510587,
+				"Shape_Area": 0.04549045865
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.902898324483196, 0.197252671320766],
                         [34.906743539483152, 0.194872300320751],
@@ -27201,23 +27201,23 @@
                         [34.902898324483196, 0.197252671320766]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 37,
-            "properties": {
-                "OBJECTID": 38,
-                "ID_": 1294,
-                "COUNTY_NAM": "BUNGOMA",
-                "CONST_CODE": 220,
-                "CONSTITUEN": "KANDUYI",
-                "COUNTY_COD": 39,
-                "Shape_Leng": 2.90276116927,
-                "Shape_Area": 0.24504475541
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 37,
+			"properties": {
+				"OBJECTID": 38,
+				"ID_": 1294,
+				"COUNTY_NAM": "BUNGOMA",
+				"CONST_CODE": 220,
+				"CONSTITUEN": "KANDUYI",
+				"COUNTY_COD": 39,
+				"Shape_Leng": 2.90276116927,
+				"Shape_Area": 0.24504475541
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.620305550483174, 1.100267808320777],
                         [34.624089730483199, 1.097643296320766],
@@ -27796,23 +27796,23 @@
                         [34.620305550483174, 1.100267808320777]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 38,
-            "properties": {
-                "OBJECTID": 39,
-                "ID_": 1295,
-                "COUNTY_NAM": "BUSIA",
-                "CONST_CODE": 225,
-                "CONSTITUEN": "TESO NORTH",
-                "COUNTY_COD": 40,
-                "Shape_Leng": 2.57838796438,
-                "Shape_Area": 0.14764386658
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 38,
+			"properties": {
+				"OBJECTID": 39,
+				"ID_": 1295,
+				"COUNTY_NAM": "BUSIA",
+				"CONST_CODE": 225,
+				"CONSTITUEN": "TESO NORTH",
+				"COUNTY_COD": 40,
+				"Shape_Leng": 2.57838796438,
+				"Shape_Area": 0.14764386658
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.36914588248316, 0.770616929320736],
                         [34.372930062483185, 0.76982347232075],
@@ -28259,23 +28259,23 @@
                         [34.36914588248316, 0.770616929320736]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 39,
-            "properties": {
-                "OBJECTID": 40,
-                "ID_": 2082,
-                "COUNTY_NAM": "SIAYA",
-                "CONST_CODE": 232,
-                "CONSTITUEN": "UGENYA",
-                "COUNTY_COD": 41,
-                "Shape_Leng": 2.80244601296,
-                "Shape_Area": 0.28583735592
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 39,
+			"properties": {
+				"OBJECTID": 40,
+				"ID_": 2082,
+				"COUNTY_NAM": "SIAYA",
+				"CONST_CODE": 232,
+				"CONSTITUEN": "UGENYA",
+				"COUNTY_COD": 41,
+				"Shape_Leng": 2.80244601296,
+				"Shape_Area": 0.28583735592
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.265867715483175, 0.305860945320771],
                         [34.273320687483185, 0.307054917320781],
@@ -28617,23 +28617,23 @@
                         [34.265867715483175, 0.305860945320771]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 40,
-            "properties": {
-                "OBJECTID": 41,
-                "ID_": 3888,
-                "COUNTY_NAM": "HOMA BAY",
-                "CONST_CODE": 248,
-                "CONSTITUEN": "RANGWE",
-                "COUNTY_COD": 43,
-                "Shape_Leng": 3.30089166438,
-                "Shape_Area": 0.38431715409
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 40,
+			"properties": {
+				"OBJECTID": 41,
+				"ID_": 3888,
+				"COUNTY_NAM": "HOMA BAY",
+				"CONST_CODE": 248,
+				"CONSTITUEN": "RANGWE",
+				"COUNTY_COD": 43,
+				"Shape_Leng": 3.30089166438,
+				"Shape_Area": 0.38431715409
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.761540902483198, -0.312146742679263],
                         [34.766301644483171, -0.312940199679249],
@@ -29025,23 +29025,23 @@
                         [34.761540902483198, -0.312146742679263]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 41,
-            "properties": {
-                "OBJECTID": 42,
-                "ID_": 5443,
-                "COUNTY_NAM": "MIGORI",
-                "CONST_CODE": 260,
-                "CONSTITUEN": "KURIA EAST",
-                "COUNTY_COD": 44,
-                "Shape_Leng": 2.9681189429,
-                "Shape_Area": 0.25500213176
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 41,
+			"properties": {
+				"OBJECTID": 42,
+				"ID_": 5443,
+				"COUNTY_NAM": "MIGORI",
+				"CONST_CODE": 260,
+				"CONSTITUEN": "KURIA EAST",
+				"COUNTY_COD": 44,
+				"Shape_Leng": 2.9681189429,
+				"Shape_Area": 0.25500213176
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.605632584483196, -0.65308795767925],
                         [34.607121957483166, -0.653333265679239],
@@ -29387,23 +29387,23 @@
                         [34.605632584483196, -0.65308795767925]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 42,
-            "properties": {
-                "OBJECTID": 43,
-                "ID_": 4405,
-                "COUNTY_NAM": "KISII",
-                "CONST_CODE": 267,
-                "CONSTITUEN": "NYARIBARI CHACHE",
-                "COUNTY_COD": 45,
-                "Shape_Leng": 1.67945950816,
-                "Shape_Area": 0.10641196741
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 42,
+			"properties": {
+				"OBJECTID": 43,
+				"ID_": 4405,
+				"COUNTY_NAM": "KISII",
+				"CONST_CODE": 267,
+				"CONSTITUEN": "NYARIBARI CHACHE",
+				"COUNTY_COD": 45,
+				"Shape_Leng": 1.67945950816,
+				"Shape_Area": 0.10641196741
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.786931527483198, -0.675855238679221],
                         [34.789739144483171, -0.678235609679237],
@@ -29699,23 +29699,23 @@
                         [34.786931527483198, -0.675855238679221]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 43,
-            "properties": {
-                "OBJECTID": 44,
-                "ID_": 4923,
-                "COUNTY_NAM": "BOMET",
-                "CONST_CODE": 195,
-                "CONSTITUEN": "CHEPALUNGU",
-                "COUNTY_COD": 36,
-                "Shape_Leng": 2.72406675872,
-                "Shape_Area": 0.19238263931
-            },
-            "geometry": {
-                "type": "MultiPolygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 43,
+			"properties": {
+				"OBJECTID": 44,
+				"ID_": 4923,
+				"COUNTY_NAM": "BOMET",
+				"CONST_CODE": 195,
+				"CONSTITUEN": "CHEPALUNGU",
+				"COUNTY_COD": 36,
+				"Shape_Leng": 2.72406675872,
+				"Shape_Area": 0.19238263931
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
                     [
                         [
                             [35.350530160483167, -0.974683363679221],
@@ -30171,23 +30171,23 @@
                         ]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 44,
-            "properties": {
-                "OBJECTID": 45,
-                "ID_": 3966,
-                "COUNTY_NAM": "NYAMIRA",
-                "CONST_CODE": 272,
-                "CONSTITUEN": "NORTH MUGIRANGO",
-                "COUNTY_COD": 46,
-                "Shape_Leng": 1.44616032887,
-                "Shape_Area": 0.07281816374
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 44,
+			"properties": {
+				"OBJECTID": 45,
+				"ID_": 3966,
+				"COUNTY_NAM": "NYAMIRA",
+				"CONST_CODE": 272,
+				"CONSTITUEN": "NORTH MUGIRANGO",
+				"COUNTY_COD": 46,
+				"Shape_Leng": 1.44616032887,
+				"Shape_Area": 0.07281816374
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [35.042650522483193, -0.470789315679272],
                         [35.0413260584832, -0.478040297679231],
@@ -30446,23 +30446,23 @@
                         [35.042650522483193, -0.470789315679272]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 45,
-            "properties": {
-                "OBJECTID": 46,
-                "ID_": 3371,
-                "COUNTY_NAM": "KISUMU",
-                "CONST_CODE": 244,
-                "CONSTITUEN": "NYAKACH",
-                "COUNTY_COD": 42,
-                "Shape_Leng": 2.85283474806,
-                "Shape_Area": 0.21632857436
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 45,
+			"properties": {
+				"OBJECTID": 46,
+				"ID_": 3371,
+				"COUNTY_NAM": "KISUMU",
+				"CONST_CODE": 244,
+				"CONSTITUEN": "NYAKACH",
+				"COUNTY_COD": 42,
+				"Shape_Leng": 2.85283474806,
+				"Shape_Area": 0.21632857436
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.808293832483166, -0.016553480679252],
                         [34.808293832483166, -0.021131117679263],
@@ -30909,23 +30909,23 @@
                         [34.808293832483166, -0.016553480679252]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 46,
-            "properties": {
-                "OBJECTID": 47,
-                "ID_": 667,
-                "COUNTY_NAM": "TRANS NZOIA",
-                "CONST_CODE": 137,
-                "CONSTITUEN": "ENDEBESS",
-                "COUNTY_COD": 26,
-                "Shape_Leng": 2.33533782345,
-                "Shape_Area": 0.20192419449
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 46,
+			"properties": {
+				"OBJECTID": 47,
+				"ID_": 667,
+				"COUNTY_NAM": "TRANS NZOIA",
+				"CONST_CODE": 137,
+				"CONSTITUEN": "ENDEBESS",
+				"COUNTY_COD": 26,
+				"Shape_Leng": 2.33533782345,
+				"Shape_Area": 0.20192419449
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.906926644483171, 1.269030015320763],
                         [34.90570594148317, 1.250048081320754],
@@ -31284,23 +31284,23 @@
                         [34.906926644483171, 1.269030015320763]
                     ]
                 ]
-            }
+			}
         }, {
-            "type": "Feature",
-            "id": 47,
-            "properties": {
-                "OBJECTID": 60,
-                "ID_": 0,
-                "COUNTY_NAM": null,
-                "CONST_CODE": 0,
-                "CONSTITUEN": null,
-                "COUNTY_COD": 0,
-                "Shape_Leng": 0.02935459334,
-                "Shape_Area": 0.00001042895
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+			"type": "Feature",
+			"id": 47,
+			"properties": {
+				"OBJECTID": 60,
+				"ID_": 0,
+				"COUNTY_NAM": null,
+				"CONST_CODE": 0,
+				"CONSTITUEN": null,
+				"COUNTY_COD": 0,
+				"Shape_Leng": 0.02935459334,
+				"Shape_Area": 0.00001042895
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
                     [
                         [34.429326546483189, -0.132337172679231],
                         [34.432317269483171, -0.146558363679221],
@@ -31308,7 +31308,7 @@
                         [34.429326546483189, -0.132337172679231]
                     ]
                 ]
-            }
+			}
         }
 
     ]
