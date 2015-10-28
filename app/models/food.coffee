@@ -24,4 +24,4 @@ module.exports = class Food extends Collection
 
   parse: (resp) =>
     utils.log "parsing #{@type} resp"
-    resp.result.records
+    resp

@@ -1,34 +1,34 @@
 [
   {
-    "mkt_name": "Eldoret",
+    "County": "Eldoret",
     "id": "27"
   },
   {
-    "mkt_name": "Kisumu",
+    "County": "Kisumu",
     "id": "42"
   },
   {
-    "mkt_name": "Kitui",
+    "County": "Kitui",
     "id": "15"
   },
   {
-    "mkt_name": "Lodwar (Turkana)",
+    "County": "Lodwar (Turkana)",
     "id": "23"
   },
   {
-    "mkt_name": "Mandera",
+    "County": "Mandera",
     "id": "9"
   },
   {
-    "mkt_name": "Marsabit",
+    "County": "Marsabit",
     "id": "10"
   },
   {
-    "mkt_name": "Mombasa",
+    "County": "Mombasa",
     "id": "1"
   },
   {
-    "mkt_name": "Nairobi",
+    "County": "Nairobi",
     "id": "0"
   }
 ]

@@ -1,10 +1,10 @@
-site_name = 'Moringa Data Viz Training App'
+site_name = 'COHORT4'
 
 config =
   author:
-    name: 'Reuben Cummings'
-    url: 'https://reubano.github.io'
-    email: 'reubano@gmail.com'
+    name: 'Okemwa Moses'
+    url: 'https://mussaimo.github.io'
+    email: 'okemwamoses@gmail.com'
 
   site:
     title: site_name
