@@ -8,10 +8,12 @@ config =
 
   site:
     title: site_name
-    description: 'Number of food types sold in Mar 2015 by County'
-    url: 'http://nerevu.github.io/akili/'
-    data: 'https://data.hdx.rwlabs.org/dataset/wfp-food-prices'
-    source: 'https://github.com/nerevu/akili'
+    description: 'Kenya Health Spending Per capita per county'
+    url: 'http://mussaimo.github.io/akili/'
+    data: 'https://data.hdx.rwlabs.org/dataset/
+              kenya-health-spending-per-capita-per-county'
+              
+    source: 'https://github.com/mussaimo/akili'
     id: 'com.akili.vizapp'
     type: 'webapp'
     version: '0.1.0'
@@ -22,7 +24,7 @@ config =
   default:
     idAttr: 'id'
     nameAttr: 'County'
-    metricAttr: 'length'
+    metricAttr: 'bednet'
 
   google:
     analytics:

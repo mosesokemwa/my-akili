@@ -75,7 +75,7 @@ if mocha? or mochaPhantomJS?
   storage_mode = 'file'
 else if localhost and not debug.production
   environment = 'development'
-  storage_mode = 'remote'
+  storage_mode = 'file'
 else
   environment = 'production'
   storage_mode = 'remote'

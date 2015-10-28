@@ -1,19 +1,11 @@
 [
   {
-    "County": "Eldoret",
-    "id": "27"
+    "County": "Nairobi",
+    "id": "0"
   },
   {
-    "County": "Kisumu",
-    "id": "42"
-  },
-  {
-    "County": "Kitui",
-    "id": "15"
-  },
-  {
-    "County": "Lodwar (Turkana)",
-    "id": "23"
+    "County": "Mombasa",
+    "id": "1"
   },
   {
     "County": "Mandera",
@@ -24,11 +16,20 @@
     "id": "10"
   },
   {
-    "County": "Mombasa",
-    "id": "1"
+    "County": "Kitui",
+    "id": "15"
   },
   {
-    "County": "Nairobi",
-    "id": "0"
+    "County": "Lodwar (Turkana)",
+    "id": "23"
+  },
+  {
+    "County": "Eldoret",
+    "id": "27"
+  },
+  {
+    "County": "Kisumu",
+    "id": "42"
   }
+  
 ]

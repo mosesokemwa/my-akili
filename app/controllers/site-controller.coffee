@@ -10,9 +10,12 @@ module.exports = class SiteController extends Controller
     @title = config.site.title
 
   getOptions: =>
-    grouped = @collection.groupBy (model) -> model.get 'mkt_name'
-    data = for region, models of grouped
-      _.extend models[0].toJSON(), {length: models.length}
+    f = (model) -> parseFloat(model.get 'bednet') / 100
+    console.log @collection
+    data = for model in @collection.models
+      _.extend model.toJSON(), {bednet: f model}
+
+    console.log 'data', data
 
     options =
       collection: @collection

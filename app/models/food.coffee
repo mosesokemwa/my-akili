@@ -12,9 +12,8 @@ module.exports = class Food extends Collection
 
   initialize: (options) =>
     super
-
     @url = "data/#{@type}"
-    
+
   parse: (resp) =>
     utils.log "parsing #{@type} resp"
     resp
