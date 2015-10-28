@@ -21,7 +21,7 @@ config =
 
   default:
     idAttr: 'id'
-    nameAttr: 'mkt_name'
+    nameAttr: 'County'
     metricAttr: 'length'
 
   google:
