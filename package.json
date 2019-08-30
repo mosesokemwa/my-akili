@@ -48,7 +48,7 @@
 		"moment": "^2.8.3",
 		"morgan": "^1.2.3",
 		"process-env-brunch": "~1.4.4-d",
-		"sass-brunch": "^1.8.11",
+		"sass-brunch": "^2.10.8",
 		"stylus-brunch": ">= 1.0 < 1.9",
 		"toobusy-js": "^0.3.1",
 		"uglify-js-brunch": ">= 1.0 < 1.9",
