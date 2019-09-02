@@ -36,7 +36,7 @@
 		"clean-css-brunch": ">= 1.0 < 1.9",
 		"coffee-script": "^1.9.3",
 		"coffee-script-brunch": ">= 1.0 < 1.9",
-		"coffeelint-brunch": ">= 1.0 < 1.9",
+		"coffeelint-brunch": ">= 1.0 < 2.11",
 		"compression": "^1.0.11",
 		"connect-timeout": "^1.2.2",
 		"css-brunch": ">= 1.0 < 1.9",
